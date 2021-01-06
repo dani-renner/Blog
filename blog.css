@@ -1,0 +1,11 @@
+h1 {
+  text-align: center;
+}
+.bloggy {
+  color: olive;
+  font-family: Helvetica, sans-serif;
+}
+p {
+  font-family: Helvetica, sans-serif;
+  color: rgb(40, 87, 40);
+}
